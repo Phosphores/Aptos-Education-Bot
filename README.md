@@ -1,4 +1,4 @@
-# Aptos Advisor/Aptos Aboard - Project Proposal
+# Aptos Advisor/Aptos Aboard
 
 ## Overview
 
