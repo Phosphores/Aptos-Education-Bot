@@ -2,7 +2,8 @@
 
 ## Overview
 
-The Aptos Community is actively seeking ways to enhance learning about the project. Numerous documents exist covering various aspects of Aptos, including its technology, ecosystem, and educational resources to learn the Move programming language and more. This project proposes the development of a simple Telegram bot designed to onboard users seamlessly into the Aptos ecosystem. The Aptos Telegram Community, boasting over 100,000 members, serves as an ideal platform for this initiative, being the third-largest community following the official Discord server and the official X account for Aptos.
+The Aptos Community is actively seeking ways to enhance learning about the project. Numerous documents exist covering various aspects of Aptos, including its technology, ecosystem, and educational resources to learn the Move programming language and more. This project explores the use of a simple Telegram bot designed to onboard users seamlessly into the Aptos ecosystem. The Aptos Telegram Community, boasting over 100,000 members, serves as an ideal platform for this initiative, being the third-largest community following the official Discord server and the official X account for Aptos.
+https://t.me/AptosAdvisor_bot
 
 The educational content delivered by the bot will include all necessary materials for users to be introduced and integrated into the Aptos Ecosystem. The content will be updated over time based on feedback from both leadership and community members.
 
