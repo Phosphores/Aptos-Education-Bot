@@ -6,6 +6,9 @@ The Aptos Community is actively seeking ways to enhance learning about the proje
 
 The educational content delivered by the bot will include all necessary materials for users to be introduced and integrated into the Aptos Ecosystem. The content will be updated over time based on feedback from both leadership and community members.
 
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/4e6fd564-210a-470d-a691-624fef0e2d60">
+
+
 ## Goals
 
 1. **Educational Accessibility:** Provide the Aptos community, especially new members, with a centralized, easy-to-access source of comprehensive information about Aptos.
